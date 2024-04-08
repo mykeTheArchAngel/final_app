@@ -1,3 +1,5 @@
+<img src = "https://github.com/mykeTheArchAngel/final_app/assets/10962678/04b6e368-39f3-4be9-8d65-9e328b9c1240" alt="Reactsite" width="500" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
